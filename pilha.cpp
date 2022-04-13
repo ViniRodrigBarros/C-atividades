@@ -91,7 +91,7 @@ int main(){
 		printf("[2] - Remover (dequeue): \n");
 		printf("[3] - Listar: \n");
 		printf("[4] - Desempilhar N: \n");
-        printf("[5] - mostrar topo\n");
+                printf("[5] - mostrar topo\n");
 		printf("[-1] - Sair. \n");
 		printf("Opção: ");
 		scanf("%d", &opcao);
